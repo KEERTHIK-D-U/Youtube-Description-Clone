@@ -62,6 +62,7 @@ src/
 │   │   ├── ActionButtons.jsx
 │   │   ├── VideoDescription.jsx
 │   │   ├── CommentsPreview.jsx
+│   │   ├── CommentItem.jsx
 │   │   └── VideoDetails.css
 │   │
 │   └── common/
